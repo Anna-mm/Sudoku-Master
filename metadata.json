@@ -1,0 +1,5 @@
+{
+  "name": "Sudoku Master",
+  "description": "A versatile Sudoku game featuring 100 levels across 3x3, 6x6, and 9x9 grid designs.",
+  "requestFramePermissions": []
+}
